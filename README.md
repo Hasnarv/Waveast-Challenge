@@ -1,2 +1,2 @@
 # Preview Challenge
-[Challenge 1](https://restohrv.netlify.app/)
+[Challenge1-RestoApp](https://restohrv.netlify.app/)
