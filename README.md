@@ -1,4 +1,5 @@
-<h1 center >PREVIEW</h1>
+<h1 align="center">PREVIEW</h1>
+
 ### RestoApp [ (Klik Disini)](https://restohrv.netlify.app/) <br>
 ![Chllg1](https://user-images.githubusercontent.com/72425456/138393007-e31db490-bafe-4ee6-ba88-c28932e1810f.png)
 
