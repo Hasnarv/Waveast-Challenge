@@ -1,0 +1,65 @@
+body {
+    padding: 100px 250px;
+}
+
+/* Header */
+.up {
+    font-size: 30px;
+}
+
+.down {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+/* Header */
+
+/* Grid */
+/* Mengatur isi */
+img {
+    position: absolute;
+}
+
+.judul {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.caption {
+    color: white;
+}
+/* Mengatur isi */
+
+/* Mengatur Background */
+.Raw-Fruit {
+    background-color:#2cccc4;
+}
+
+.pepaya {
+    background-color: #fab500;
+}
+
+.ceri {
+    background-color: #b3e7db;
+}
+
+.jeruk {
+    background-color: #65c5f5;
+}
+
+.naga {
+    background-color: #65e75f;
+}
+
+.fruit-diet {
+    background-color: #478ac9;
+}
+
+.nanas {
+    background-color: #ffd33a;
+}
+
+.jeruk-utuh {
+    background-color: #59c1f6;
+}
+/* Mengatur Background */
