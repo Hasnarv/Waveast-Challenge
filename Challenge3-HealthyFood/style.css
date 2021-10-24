@@ -15,9 +15,6 @@ body {
 
 /* Grid */
 /* Mengatur isi */
-img {
-    position: absolute;
-}
 
 .judul {
     color: white;
@@ -27,6 +24,10 @@ img {
 
 .caption {
     color: white;
+}
+
+img {
+    position: absolute;
 }
 /* Mengatur isi */
 
